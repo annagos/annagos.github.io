@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[]]></title>
-  <link href="http://annagos.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: work | ]]></title>
+  <link href="http://annagos.github.io/blog/categories/work/atom.xml" rel="self"/>
   <link href="http://annagos.github.io/"/>
   <updated>2013-06-15T19:14:32+02:00</updated>
   <id>http://annagos.github.io/</id>
@@ -28,17 +28,6 @@
 
 
 <p>If there is something you don&rsquo;t like about your job and/or company there are basically two options. You can learn to accept the way it is or your can change something. And if all fails there is always this third option, set off in search of a company which sucks less.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[A beautiful adventure]]></title>
-    <link href="http://annagos.github.io/blog/2013/06/12/a-beautiful-adventure/"/>
-    <updated>2013-06-12T23:15:00+02:00</updated>
-    <id>http://annagos.github.io/blog/2013/06/12/a-beautiful-adventure</id>
-    <content type="html"><![CDATA[<p>This blog is a new citizen in the never-ending stream of my ventures. Over the years, I have made several attempts to start blogging but I never got through the preliminary hassle. One of the reasons I might stick to it this time is Octopress and hosting on GitHub. This tooling seems to fit my needs and state of mind whereas installing WordPress always aroused in me ambivalent feelings.</p>
-
-<p>I plan to write about software development and related human aspects. Expect some posts about programming and technology in general and stuff I experience while working on software projects. Hopefully some people will find these articles helpful or interesting. Anyhow, I think this is the beginning of a beautiful adventure.</p>
 ]]></content>
   </entry>
   
