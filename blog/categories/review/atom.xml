@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[]]></title>
-  <link href="http://annagos.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: review | ]]></title>
+  <link href="http://annagos.github.io/blog/categories/review/atom.xml" rel="self"/>
   <link href="http://annagos.github.io/"/>
   <updated>2013-08-12T13:12:26+02:00</updated>
   <id>http://annagos.github.io/</id>
@@ -20,7 +20,7 @@
     <id>http://annagos.github.io/blog/2013/08/12/code-review-ftw</id>
     <content type="html"><![CDATA[<p>A common practice in software projects is peer code review. The general view is that code review helps identifying potential bugs and enforcing a project&rsquo;s coding standards. While I do not disagree with this, I believe code review can mean much more for a project and its team. Consider code review embraces four regions where your, the reviewer&rsquo;s, ability to learn and teach crosses technical and domain knowledge.</p>
 
-<p><img class="[class names]" src="http://annagos.github.io/images/code_review.png"></p>
+<p><img class="[class names]" src="/images/code_review.png"></p>
 
 <p><strong>Teaching + Programming:</strong> Code reviews gives you an excellent opportunity to share your programming knowledge with your peers. The goal here is not to show off the latest tricks you learned but to improve the skills of an another developer. You can actively contribute to a person&rsquo;s growth as a programmer by providing valuable feedback. Coaching novices in a particular technology or introducing people into the specific practices of your project are just two ways of achieving this.</p>
 
@@ -36,42 +36,13 @@
 
 <ul>
 <li><p><strong>making the code the property of all developers in the team</strong> &ndash; As developers we like to feel at home in a codebase. Reviewing code switches the code ownership from the author to the team and turns it to a common good. It makes the whole team responsible for the code quality and enables any team member to introduce changes. This is also related to <a href="http://en.wikipedia.org/wiki/Extreme_programming_practices#Collective_code_ownership">shared code (or collective code ownership) in Extreme Programming</a>.</p></li>
-<li><p><strong>gradually improving developers&#8217; programming skills</strong> &ndash; Peer review will raise the average skill level of a team. Furthermore, it introduces a subtle pressure which motivates developers to write their best code.</p></li>
+<li><p><strong>gradually improving developers' programming skills</strong> &ndash; Peer review will raise the average skill level of a team. Furthermore, it introduces a subtle pressure which motivates developers to write their best code.</p></li>
 <li><p><strong>spreading domain knowledge</strong> &ndash; Understanding the functionality captured in the code helps spreading the knowledge about the whole system between all team members. It makes the team more confident as a whole, enables any developer to work on any part of the system which as result makes story &ldquo;cherry-picking&rdquo; less likely to happen.</p></li>
 <li><p><strong>fostering collective intelligence</strong> &ndash; The quality a team can achieve together is greater than the sum of what developers could achieve when working alone. Every developer brings different skills to the table and ideally a team achieves programming synergy by picking everyone&rsquo;s best qualities.</p></li>
 </ul>
 
 
 <p>Code review is one of my favorite team building exercises. It is not only about the code but very much about growing into a great team. It is worth mentioning that <a href="http://en.wikipedia.org/wiki/Pair_programming">pair programming</a> can be seen as an extreme form of code review. Depending on the frequency of pairing it can be used as complimentary to code review or as an entire replacement.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[All companies suck (in some way)]]></title>
-    <link href="http://annagos.github.io/blog/2013/06/15/all-companies-suck-in-some-way/"/>
-    <updated>2013-06-15T18:35:00+02:00</updated>
-    <id>http://annagos.github.io/blog/2013/06/15/all-companies-suck-in-some-way</id>
-    <content type="html"><![CDATA[<p>A few days ago I came across a blog post by Ahmet Alp Balkan, <a href="http://ahmetalpbalkan.com/blog/8-months-microsoft/">&ldquo;8 months in Microsoft, I learned these&rdquo;</a>. Even though I have never worked for a company of Microsoft size, Ahmet&rsquo;s article made me deeply think about all the companies I have worked for since the beginning of my professional career in software industry. I was still a student when I got my first full-time job in a corporation with more than 2500 employees. Afterwards I have worked for a few mid-size companies and I am glad I had the opportunity to taste a few different flavors as it brought me to the realization that:</p>
-
-<ul>
-<li><p><strong>All companies suck in some way</strong> &ndash; There is no perfect company to work for. There will be always something annoying whether it&rsquo;s code quality, your colleagues, management, outdated technology or boring projects. The key is to identify the flaws you are able to live with while focusing on those aspects which are essential for your happy work life.</p></li>
-<li><p><strong>Companies can be fixed</strong> &ndash; You don&rsquo;t have to accept the status quo. You can improve your company by sharing your ideas with people around you. This is true that it&rsquo;s easier in small companies but even in those as big as Microsoft you can influence your direct environment. Better code? Introduce peer review. Knowledge sharing? Organize a tech session or write an article on the intranet. Most importantly, talk to your boss. Your manager is not able to read your mind and if you have good reasons he will get this new projector for your team.</p></li>
-<li><p><strong>A company must make a profit</strong> &ndash; Making a profit to a company is like <a href="http://en.wikipedia.org/wiki/Philosophy_of_business#The_purpose_of_a_business">breathing air to people</a>: necessary but not a goal in itself. During your career you will be asked to cut corners for the sake of profit. Try to make the best out of the circumstances by maintaining high quality standards of your work. If you have luck your company will recognize that letting developers write good code makes them happy and <a href="http://www.inc.com/news/articles/2010/09/happy-employees-are-good-for-business.html">happy employees are good for business</a>.</p></li>
-</ul>
-
-
-<p>If there is something you don&rsquo;t like about your job and/or company there are basically two options. You can learn to accept the way it is or your can change something. And if all fails there is always this third option, set off in search of a company which sucks less.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[A beautiful adventure]]></title>
-    <link href="http://annagos.github.io/blog/2013/06/12/a-beautiful-adventure/"/>
-    <updated>2013-06-12T23:15:00+02:00</updated>
-    <id>http://annagos.github.io/blog/2013/06/12/a-beautiful-adventure</id>
-    <content type="html"><![CDATA[<p>This blog is a new citizen in the never-ending stream of my ventures. Over the years, I have made several attempts to start blogging but I never got through the preliminary hassle. One of the reasons I might stick to it this time is Octopress and hosting on GitHub. This tooling seems to fit my needs and state of mind whereas installing WordPress always aroused in me ambivalent feelings.</p>
-
-<p>I plan to write about software development and related human aspects. Expect some posts about programming and technology in general and stuff I experience while working on software projects. Hopefully some people will find these articles helpful or interesting. Anyhow, I think this is the beginning of a beautiful adventure.</p>
 ]]></content>
   </entry>
   
