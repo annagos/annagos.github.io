@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: code | ]]></title>
-  <link href="http://annagos.github.io/blog/categories/code/atom.xml" rel="self"/>
-  <link href="http://annagos.github.io/"/>
-  <updated>2013-08-12T13:12:26+02:00</updated>
-  <id>http://annagos.github.io/</id>
+  <link href="http://anna.gs/blog/categories/code/atom.xml" rel="self"/>
+  <link href="http://anna.gs/"/>
+  <updated>2013-08-14T15:14:36+02:00</updated>
+  <id>http://anna.gs/</id>
   <author>
     <name><![CDATA[Anna Goś]]></name>
     <email><![CDATA[anka.gos@gmail.com]]></email>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Code review FTW!]]></title>
-    <link href="http://annagos.github.io/blog/2013/08/12/code-review-ftw/"/>
+    <link href="http://anna.gs/blog/2013/08/12/code-review-ftw/"/>
     <updated>2013-08-12T13:05:00+02:00</updated>
-    <id>http://annagos.github.io/blog/2013/08/12/code-review-ftw</id>
+    <id>http://anna.gs/blog/2013/08/12/code-review-ftw</id>
     <content type="html"><![CDATA[<p>A common practice in software projects is peer code review. The general view is that code review helps identifying potential bugs and enforcing a project&rsquo;s coding standards. While I do not disagree with this, I believe code review can mean much more for a project and its team. Consider code review embraces four regions where your, the reviewer&rsquo;s, ability to learn and teach crosses technical and domain knowledge.</p>
 
 <p><img class="[class names]" src="/images/code_review.png"></p>

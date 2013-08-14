@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: work | ]]></title>
-  <link href="http://annagos.github.io/blog/categories/work/atom.xml" rel="self"/>
-  <link href="http://annagos.github.io/"/>
-  <updated>2013-08-12T13:12:26+02:00</updated>
-  <id>http://annagos.github.io/</id>
+  <link href="http://anna.gs/blog/categories/work/atom.xml" rel="self"/>
+  <link href="http://anna.gs/"/>
+  <updated>2013-08-14T15:14:36+02:00</updated>
+  <id>http://anna.gs/</id>
   <author>
     <name><![CDATA[Anna Goś]]></name>
     <email><![CDATA[anka.gos@gmail.com]]></email>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[All companies suck (in some way)]]></title>
-    <link href="http://annagos.github.io/blog/2013/06/15/all-companies-suck-in-some-way/"/>
+    <link href="http://anna.gs/blog/2013/06/15/all-companies-suck-in-some-way/"/>
     <updated>2013-06-15T18:35:00+02:00</updated>
-    <id>http://annagos.github.io/blog/2013/06/15/all-companies-suck-in-some-way</id>
+    <id>http://anna.gs/blog/2013/06/15/all-companies-suck-in-some-way</id>
     <content type="html"><![CDATA[<p>A few days ago I came across a blog post by Ahmet Alp Balkan, <a href="http://ahmetalpbalkan.com/blog/8-months-microsoft/">&ldquo;8 months in Microsoft, I learned these&rdquo;</a>. Even though I have never worked for a company of Microsoft size, Ahmet&rsquo;s article made me deeply think about all the companies I have worked for since the beginning of my professional career in software industry. I was still a student when I got my first full-time job in a corporation with more than 2500 employees. Afterwards I have worked for a few mid-size companies and I am glad I had the opportunity to taste a few different flavors as it brought me to the realization that:</p>
 
 <ul>
