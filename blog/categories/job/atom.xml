@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: work | ]]></title>
-  <link href="http://anna.gs/blog/categories/work/atom.xml" rel="self"/>
+  <title><![CDATA[Category: job | ]]></title>
+  <link href="http://anna.gs/blog/categories/job/atom.xml" rel="self"/>
   <link href="http://anna.gs/"/>
   <updated>2013-08-15T08:23:28+02:00</updated>
   <id>http://anna.gs/</id>
